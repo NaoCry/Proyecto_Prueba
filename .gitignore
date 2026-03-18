@@ -1,0 +1,27 @@
+# Maven
+target/
+.m2/
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test Reports
+test-output/
+*.log
+
+# Dependencies
+dependencies-lock.json
